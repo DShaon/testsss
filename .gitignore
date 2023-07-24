@@ -1,0 +1,4 @@
+node_modules
+.env
+.vercel
+# git branch -M main git remote add origin https://github.com/DShaon/EduJive_Server_Side.git git push -u origin main
